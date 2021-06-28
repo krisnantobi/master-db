@@ -1,12 +1,14 @@
 {
-  "camapigns":  [
-      
-      {
-        "id": "ecb92705-752c-4879-a37f-74cb54d04080",
-        "title": "Example Campaign"
-      },
-      {
-        "id": "b694824a-ad02-454b-b024-4d0a57905633"
-      }
-    ]
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
