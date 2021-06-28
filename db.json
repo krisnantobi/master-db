@@ -1,11 +1,5 @@
 {
-  "campaigns": {
-  "data": {
-    "total": 24,
-    "current_page": null,
-    "limit": null,
-    "last_page": null,
-    "items": [
+  "campaigns": [
       {
         "id": "04a94a73-4e55-439e-9da1-52296470a710",
         "title": "Dietetic Technician",
@@ -73,7 +67,4 @@
         "status_formated": "Verified"
       }
     ]
-  },
-  "message": "Successfully"
-}
 }
