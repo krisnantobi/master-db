@@ -1,6 +1,6 @@
 {
   "camapigns": {
-    {
+
   "data": {
     "total": 24,
     "current_page": null,
@@ -538,6 +538,5 @@
     ]
   },
   "message": "Successfully"
-}
   }
 }
