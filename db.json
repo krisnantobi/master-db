@@ -75,5 +75,51 @@
     ]
   },
   "message": "Successfully"
+},
+  "campaigns/ecb92705-752c-4879-a37f-74cb54d04080": {
+  "data": {
+    "campaign": {
+      "id": "ecb92705-752c-4879-a37f-74cb54d04080",
+      "campaigner_id": "93a871eb-40ad-411a-92d9-7897b3026ba7",
+      "category_id": 1,
+      "is_volunteer": 0,
+      "title": "Example Campaign",
+      "funding": 250000000,
+      "funds_raised": 0,
+      "image": "documents\/campaigns\/n3n2wbbTVJgoGhFJJ1hvnkn8yPIH3SUaj2heD6lV.png",
+      "due_date": "1622678400",
+      "story": "<p>asd asd asd<\/p>",
+      "necessity": "Test yayaya",
+      "beneficiary_name": "Ryan",
+      "is_hospitalized": 0,
+      "status": 2,
+      "hospital": "",
+      "diagnosis": "",
+      "treatment": "",
+      "slug": "example-campaign",
+      "meta": null,
+      "created_at": "2021-04-28T08:11:49.000000Z",
+      "funding_formated": "Rp 250.000.000",
+      "funds_raised_formated": "Rp 0",
+      "percentage": 0,
+      "days_remaining": 25,
+      "created_at_formated": "28 April 2021",
+      "due_date_formated": "03 June 2021",
+      "image_url": "https:\/\/storage.googleapis.com\/rumahberkat\/documents\/campaigns\/n3n2wbbTVJgoGhFJJ1hvnkn8yPIH3SUaj2heD6lV.png?GoogleAccessId=471072079853-compute%40developer.gserviceaccount.com&Expires=1624866111&Signature=YiVsw1VY3nVVP3Xuy%2FAM2N63bq%2FySCgRhTOMad%2BUy11b86eBsUxjdQaotUJNlu8qv088z4WjHTThPU6hhes8XtM0OcjfQxvUHqgafRhDl7Xcp7nJvpJ%2BolvvEe0TOHszlzsF11pOrdapS9uF548Xsedcnl1T3BXQq4IYk5vO5Vd08VSdPlx0%2Fcsua%2Be6%2FSKi8rrtV6MNo5KD6GH9DQ1cFjx5Zo2BFlalVxCLcjXZ6EwReva4H7usElHSqq5qdECPHHI5Q5D%2FpzazalWXtJ4ugxFP%2FnDuD4VbtMfuyYWaKeRfrcv%2F8uDpYiaAvCmrmcpqz0scJeHgPUDfCe9Gkx9DzA%3D%3D",
+      "status_formated": "Being verified",
+      "updated_at_formated": null,
+      "campaigner_avatar": null
+    },
+    "campaigner": {
+      "id": "93a871eb-40ad-411a-92d9-7897b3026ba7",
+      "name": "Wachid",
+      "avatar": "users\/avatars\/A3pJBaLg9lRojFidbA5BPsrcjjVx6xCzd7TYSDWC.png",
+      "avatar_url": "https:\/\/storage.googleapis.com\/rumahberkat\/users\/avatars\/A3pJBaLg9lRojFidbA5BPsrcjjVx6xCzd7TYSDWC.png?GoogleAccessId=471072079853-compute%40developer.gserviceaccount.com&Expires=1624866111&Signature=X%2ByIU%2BR8z2AUWIT%2BfukrhlFXlHMR60Qh0oQ4nvx7aMG3Pfldq4072ZpelQ5ROwvR22hodCdsu10R41A2MBfpl3MDaMfeS5RnqMc9WKiWktrW23JRHnr8p4pTKe5WHcAgluBlyRRgabI9k%2Fmfule3DNgZKQCvu74LdmtoUQtXU4aKmMcIzINXvwoYhduplmz47nuxNMP1GiJ0iYdF%2BPIqeOSZdfhN6O9IvFpeban0f2A3JvDASbGBIiSiuxrHdOJjZs4nIQbUetonQ4cD2W5758Vs2902hc4U7kAyFyDXH9Q0YSUEclopxR%2Fj2LwmOyx1QH4CN1iaZSMgQgvoYaaNTg%3D%3D",
+      "id_card_image_url": null,
+      "birth_format": null
+    }
+  },
+  "message": "successfully"
 }
+  
 }
