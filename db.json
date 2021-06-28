@@ -3,47 +3,10 @@
       
       {
         "id": "ecb92705-752c-4879-a37f-74cb54d04080",
-        "title": "Example Campaign",
-        "funding": 250000000,
-        "funds_raised": 0,
-        "image": "documents\/campaigns\/n3n2wbbTVJgoGhFJJ1hvnkn8yPIH3SUaj2heD6lV.png",
-        "is_featured": 0,
-        "due_date": "1622678400",
-        "slug": "example-campaign",
-        "created_at": "1619597509",
-        "status": 2,
-        "campaigner_name": "Wachid",
-        "campaigner_id": "93a871eb-40ad-411a-92d9-7897b3026ba7",
-        "funding_formated": "Rp 250.000.000",
-        "funds_raised_formated": "Rp 0",
-        "percentage": 0,
-        "days_remaining": 25,
-        "created_at_formated": "28 April 2021",
-        "due_date_formated": "03 June 2021",
-        "image_url": "https:\/\/storage.googleapis.com\/rumahberkat\/documents\/campaigns\/n3n2wbbTVJgoGhFJJ1hvnkn8yPIH3SUaj2heD6lV.png?GoogleAccessId=471072079853-compute%40developer.gserviceaccount.com&Expires=1624866261&Signature=fRQQY2DWyRYvVaJyaAzHYabRZs6OGuUhrCnC70%2BvIBjWTaxrzum1AsfK4GYiNaFKMmt6ip6sRn%2B%2B2wdn4WWaKlJ75Q9YC4FqbeT1woBC7ndUktgd%2FrYLAgC5JmECIeAn4fwWEgx8PnjMuTU5x25n1mAmsd6T6NaZSi2JuzHokqz%2FvuYnKWf0SM8ybZx9rR2HwkPo6OjIwV3UsGbwlCf8JCAHMyA9brhCDAGPfm7DXxIlXnpG6%2B0wwiAxF6VzCmtnzWZBnFSj7G8QPdiY9r1OglxvO4y4r2V4ANl1%2Blr26g9YR6hmvzyyE9nmGPALf8W1jwBJWHTTr4mUKBi0g%2FoBvw%3D%3D",
-        "status_formated": "Being verified"
+        "title": "Example Campaign"
       },
       {
-        "id": "b694824a-ad02-454b-b024-4d0a57905633",
-        "title": "hahahaha biayaaa",
-        "funding": 20000000,
-        "funds_raised": 90000000000,
-        "image": null,
-        "is_featured": null,
-        "due_date": "1623310424",
-        "slug": "hahahaha-biayaaa",
-        "created_at": "1619084759",
-        "status": 0,
-        "campaigner_name": "kris",
-        "campaigner_id": "b639c5e5-10fd-481a-9647-53f62b3f974a",
-        "funding_formated": "Rp 20.000.000",
-        "funds_raised_formated": "Rp 90.000.000.000",
-        "percentage": 450000,
-        "days_remaining": 17,
-        "created_at_formated": "22 April 2021",
-        "due_date_formated": "10 June 2021",
-        "image_url": "",
-        "status_formated": "Unverified"
+        "id": "b694824a-ad02-454b-b024-4d0a57905633"
       }
     ]
 }
