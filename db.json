@@ -1,12 +1,5 @@
 {
-  "camapigns": {
-
-  "data": {
-    "total": 24,
-    "current_page": null,
-    "limit": null,
-    "last_page": null,
-    "items": [
+  "camapigns":  [
       
       {
         "id": "ecb92705-752c-4879-a37f-74cb54d04080",
@@ -53,7 +46,4 @@
         "status_formated": "Unverified"
       }
     ]
-  },
-  "message": "Successfully"
-  }
 }
