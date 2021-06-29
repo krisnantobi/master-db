@@ -120,6 +120,20 @@
     }
   },
   "message": "successfully"
-}
+},
+  "charts": {
+    jan: 75,
+    feb: 38,
+    mar: 72,
+    apr: 14,
+    mei: 24,
+    jun: 87,
+    jul: 28,
+    ags: 79,
+    sep: 40,
+    oct: 7,
+    nov: 99,
+    dec: 82,
+    }
   
 }
