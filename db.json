@@ -123,7 +123,10 @@
 },
   "charts": {
   "data": {
-    "April 2021": [
+    "January": [],
+    "February": [],
+    "March": [],
+    "April": [
       {
         "created_at": "1619084760",
         "title": "Title Abstractor",
@@ -140,7 +143,7 @@
         "slug": "securities-sales-agent"
       }
     ],
-    "May 2021": [
+    "May": [
       {
         "created_at": "1621422052",
         "title": "",
@@ -151,7 +154,14 @@
         "title": "",
         "slug": ""
       }
-    ]
+    ],
+    "June": [],
+    "July": [],
+    "August": [],
+    "September": [],
+    "October": [],
+    "November": [],
+    "December": []
   },
   "message": "Successfully"
 }
